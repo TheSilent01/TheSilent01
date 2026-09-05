@@ -32,20 +32,25 @@
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheSilent01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSilent01&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSilent01&theme=tokyonight" alt="profile summary">
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=TheSilent01&theme=tokyonight&hide_border=true" alt="streak">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheSilent01&theme=tokyonight" alt="repositories per language">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheSilent01&theme=tokyonight" alt="most committed language">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSilent01&theme=tokyo-night&hide_border=true&area=true" alt="activity graph">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheSilent01&theme=tokyonight" alt="stats">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheSilent01&theme=tokyonight&utcOffset=1" alt="productive time">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheSilent01&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="trophies">
+  <img src="https://streak-stats.demolab.com?user=TheSilent01&theme=tokyonight&hide_border=true" alt="contribution streak">
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/4c8eda/TheSilent01" alt="contribution chart">
 </p>
 
 ---
