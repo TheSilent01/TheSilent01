@@ -24,8 +24,44 @@
 - **Wire protocols by hand.** A PostgreSQL client that speaks the frontend/backend protocol directly, SCRAM-SHA-256 included, because taking a driver would have ended the no-dependency claim.
 - **Tools I actually use.** An offline client for my school's results portal that implements the evaluation règlement from the official text, with a CLI, an HTTP API, an Android app and a desktop widget over one store.
 
-> Most of my larger work sits in private repositories, so the public counters below
-> under-report it. The repositories listed further down are the ones you can read.
+---
+
+### Why the counters look quiet
+
+Most of what I would actually want to show you is not here to be shown, for four
+separate reasons.
+
+Some of it is **covered by a confidentiality agreement**. The monitoring work was
+built inside a company, against its estate, and the configuration alone is a map
+of an internal network and of who is on call for each part of it. The program is
+one thing; the addresses, the group ownership and the handover notes naming real
+people are another, and those do not leave.
+
+Some of it is **running in production right now**, on machines that belong to
+someone else. A repository that is also a deployment is not a portfolio piece you
+can open to the public without thinking about it first.
+
+Some of it is a **product rather than a demonstration**, still being worked on and
+not ready to be read by strangers.
+
+And a good deal of it I simply **use every day**. The practice platforms, the life
+tracker, the school tooling and the small automations are daily drivers before
+they are anything else, which means they carry my data, my notes and my habits.
+They exist because I needed them, not because they would look good on a profile.
+
+So the fair way to judge the private half is by what it does and what it is built
+from, and that part I am happy to put in writing:
+
+| What it is | What it does | Stack |
+| --- | --- | --- |
+| **Estate monitoring** | Protocol-aware service checks, an alert engine built around suppression, ownership read from Linux groups, a second copy of the record in PostgreSQL. Deployed and in daily use. | Java on the JDK alone, systemd, Prometheus, Grafana, Loki, the PostgreSQL wire protocol written by hand |
+| **Competition security platform** | A capture-the-flag event: scoring, phase control, per-player DNS accounting, an AI-domain firewall, and the challenges themselves | Rust end to end, Ratatui terminal interfaces, an HTTP API, iptables |
+| **Auto-graded practice platforms** | Three of them, for Java, Rust and Git. Problem banks, hidden test suites, sandboxed repositories, progress that survives syncing between two machines | Java, Rust, Python, PostgreSQL, Git plumbing |
+| **A personal operating system** | Journal, notes, habit and health tracking, daily reports, state kept as text so two laptops can merge it by union instead of conflicting | Python, a text-as-database design, Syncthing, a device protocol ported by hand |
+| **School and study tooling** | An offline client for the results portal with the evaluation rules implemented from the official text, a grading helper, a timetable extractor, exam practice | Python, an HTTP API over a local store, Android, KDE Plasma |
+| **Simulation and modelling** | Orbital trajectories and line-of-sight occultation, market backtesting, animated explanations of mathematics | Python, matplotlib, Streamlit, Plotly, NumPy |
+| **Web products** | Client work and interactive pieces, including a recruitment stand and several small products | TypeScript, React, Next.js, Tailwind |
+| **Everyday automation** | Fare watching, scheduled mail, message routing, calendar prediction. Small things that run without being asked | Python, cron and systemd timers, third-party APIs |
 
 ---
 
