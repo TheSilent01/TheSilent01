@@ -1,19 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Yassine%20El%20Aidous&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Systems%20software%20%C2%B7%20ENSAM%20Mekn%C3%A8s&descAlignY=58&descSize=17" width="100%" alt="header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=190&section=header&text=Yassine%20El%20Aidous&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Systems%20software%20%C2%B7%20ENSAM%20Mekn%C3%A8s&descAlignY=58&descSize=17" width="100%" alt="header">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yassine-el-aidous/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4EC9B0&center=true&vCenter=true&width=620&lines=No+framework+where+the+JDK+will+do.;Suppression+is+harder+than+detection.;Two+lists+nobody+reconciles+are+one+list+plus+a+lie.;Wire+protocols%2C+by+hand%2C+on+purpose." alt="typing">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=No+framework+where+the+JDK+will+do.;Suppression+is+harder+than+detection.;Two+lists+nobody+reconciles+are+one+list+plus+a+lie.;Wire+protocols%2C+by+hand%2C+on+purpose." alt="typing">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,rust,python,cpp,c,linux,postgres,bash,git,docker,nextjs,react,tailwind&theme=dark&perline=13" alt="stack">
+  <img src="https://skillicons.dev/icons?i=java,rust,python,cpp,c,linux,postgres,bash,git,docker,nextjs&theme=dark&perline=11" alt="stack">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Monitoring%20%26%20Alerting-2c5364?style=for-the-badge&labelColor=0f2027" alt="focus">
-  <img src="https://img.shields.io/badge/Bias-Zero%20Dependencies-4EC9B0?style=for-the-badge&labelColor=0f2027" alt="bias">
-  <img src="https://img.shields.io/badge/Based%20in-Agadir%2C%20Morocco-e06c75?style=for-the-badge&labelColor=0f2027" alt="location">
+  <img src="https://img.shields.io/badge/Focus-Monitoring%20%26%20Alerting-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="focus">
+  <img src="https://img.shields.io/badge/Bias-Zero%20Dependencies-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="bias">
 </p>
 
 ---
@@ -69,21 +68,21 @@ from, and that part I am happy to put in writing:
 ### GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSilent01&theme=github_dark" alt="profile summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSilent01&theme=tokyonight" alt="profile summary">
 </p>
 
 <p align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheSilent01&theme=github_dark" alt="repositories per language">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheSilent01&theme=github_dark" alt="most committed language">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheSilent01&theme=tokyonight" alt="repositories per language">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheSilent01&theme=tokyonight" alt="most committed language">
 </p>
 
 <p align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheSilent01&theme=github_dark" alt="stats">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheSilent01&theme=github_dark&utcOffset=1" alt="productive time">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheSilent01&theme=tokyonight" alt="stats">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheSilent01&theme=tokyonight&utcOffset=1" alt="productive time">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheSilent01&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="contribution streak">
+  <img src="https://streak-stats.demolab.com?user=TheSilent01&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="contribution streak">
 </p>
 
 <p align="center">
@@ -110,9 +109,9 @@ from, and that part I am happy to put in writing:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b26&height=110&section=footer" width="100%" alt="footer">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yassine-el-aidous/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=TheSilent01&style=for-the-badge&color=4EC9B0&label=PROFILE+VIEWS" alt="profile views">
+  <a href="https://www.linkedin.com/in/yassine-el-aidous/"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=TheSilent01&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="profile views">
 </p>
