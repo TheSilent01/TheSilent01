@@ -96,9 +96,9 @@ from, and that part I am happy to put in writing:
 | Repository | What it is |
 | --- | --- |
 | [schoolapp_watcher](https://github.com/TheSilent01/schoolapp_watcher) | Offline CLI for the ENSAM results portal. Local store, watch mode with snapshot diffing, the evaluation règlement implemented from the official text, CSV export, an HTTP API, plus Android and KDE clients. |
-| [ICT-management](https://github.com/TheSilent01/ICT-management) | Dashboard for in-circuit-test defects on an SMT line. Per-component failure rate and reliability, an SPC control chart, heatmaps, and a resolution workflow with live updates. |
-| [Calendar](https://github.com/TheSilent01/Calendar) | Organises a course calendar into Google Calendar: colour assignment, validation with row numbers, statistics and splitting. |
-| [The-Game](https://github.com/TheSilent01/The-Game) | A terminal game in C++ that teaches eleven language features, one per room, in French. |
+| [ict-defect-dashboard](https://github.com/TheSilent01/ict-defect-dashboard) | Dashboard for in-circuit-test defects on an SMT line. Per-component failure rate and reliability, an SPC control chart, heatmaps, and a resolution workflow with live updates. |
+| [calendar-organizer](https://github.com/TheSilent01/calendar-organizer) | Organises a course calendar into Google Calendar: colour assignment, validation with row numbers, statistics and splitting. |
+| [cpp-dungeon](https://github.com/TheSilent01/cpp-dungeon) | A terminal game in C++ that teaches eleven language features, one per room, in French. |
 | [SpaceArticle](https://github.com/TheSilent01/SpaceArticle) | A written piece on SPHEREx, Tiangong, Orbital Reef, Haven-1 and topological qubits, and why they are one story rather than five. |
 | [ryanair_bot](https://github.com/TheSilent01/ryanair_bot) | Fare watching against the Ryanair API. |
 
