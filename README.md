@@ -60,7 +60,7 @@ from, and that part I am happy to put in writing:
 | **A personal operating system** | Journal, notes, habit and health tracking, daily reports, state kept as text so two laptops can merge it by union instead of conflicting | Python, a text-as-database design, Syncthing, a device protocol ported by hand |
 | **School and study tooling** | An offline client for the results portal with the evaluation rules implemented from the official text, a grading helper, a timetable extractor, exam practice | Python, an HTTP API over a local store, Android, KDE Plasma |
 | **Simulation and modelling** | Orbital trajectories and line-of-sight occultation, market backtesting, animated explanations of mathematics | Python, matplotlib, Streamlit, Plotly, NumPy |
-| **Web products** | Client work and interactive pieces, including a recruitment stand and several small products | TypeScript, React, Next.js, Tailwind |
+| **Web products** | Client work and interactive pieces, including a recruitment stand and several small products | React, Next.js, Tailwind, Node |
 | **Everyday automation** | Fare watching, scheduled mail, message routing, calendar prediction. Small things that run without being asked | Python, cron and systemd timers, third-party APIs |
 
 ---
