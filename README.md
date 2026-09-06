@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=190&section=header&text=Yassine%20El%20Aidous&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Systems%20software%20%C2%B7%20ENSAM%20Mekn%C3%A8s&descAlignY=58&descSize=17" width="100%" alt="header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,45:24283b,80:7aa2f7,100:bb9af7&height=190&section=header&text=Yassine%20El%20Aidous&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Systems%20software%20%C2%B7%20ENSAM%20Mekn%C3%A8s&descAlignY=58&descSize=17" width="100%" alt="header">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yassine-el-aidous/">
@@ -68,27 +68,27 @@ from, and that part I am happy to put in writing:
 ### GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSilent01&theme=tokyonight" alt="profile summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonee01&theme=tokyonight" alt="profile summary">
 </p>
 
 <p align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheSilent01&theme=tokyonight" alt="repositories per language">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheSilent01&theme=tokyonight" alt="most committed language">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nonee01&theme=tokyonight" alt="repositories per language">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nonee01&theme=tokyonight" alt="most committed language">
 </p>
 
 <p align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheSilent01&theme=tokyonight" alt="stats">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheSilent01&theme=tokyonight&utcOffset=1" alt="productive time">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nonee01&theme=tokyonight" alt="stats">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nonee01&theme=tokyonight&utcOffset=1" alt="productive time">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheSilent01&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="contribution streak">
+  <img src="https://streak-stats.demolab.com?user=nonee01&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="contribution streak">
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheSilent01/TheSilent01/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/TheSilent01/TheSilent01/output/github-snake.svg" alt="contribution snake" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nonee01/nonee01/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/nonee01/nonee01/output/github-snake.svg" alt="contribution snake" width="100%">
   </picture>
 </p>
 
@@ -98,20 +98,18 @@ from, and that part I am happy to put in writing:
 
 | Repository | What it is |
 | --- | --- |
-| [schoolapp_watcher](https://github.com/TheSilent01/schoolapp_watcher) | Offline CLI for the ENSAM results portal. Local store, watch mode with snapshot diffing, the evaluation règlement implemented from the official text, CSV export, an HTTP API, plus Android and KDE clients. |
-| [ict-defect-dashboard](https://github.com/TheSilent01/ict-defect-dashboard) | Dashboard for in-circuit-test defects on an SMT line. Per-component failure rate and reliability, an SPC control chart, heatmaps, and a resolution workflow with live updates. |
-| [calendar-organizer](https://github.com/TheSilent01/calendar-organizer) | Organises a course calendar into Google Calendar: colour assignment, validation with row numbers, statistics and splitting. |
-| [cpp-dungeon](https://github.com/TheSilent01/cpp-dungeon) | A terminal game in C++ that teaches eleven language features, one per room, in French. |
-| [SpaceArticle](https://github.com/TheSilent01/SpaceArticle) | A written piece on SPHEREx, Tiangong, Orbital Reef, Haven-1 and topological qubits, and why they are one story rather than five. |
-| [ryanair_bot](https://github.com/TheSilent01/ryanair_bot) | Fare watching against the Ryanair API. |
+| [schoolapp_watcher](https://github.com/nonee01/schoolapp_watcher) | Offline CLI for the ENSAM results portal. Local store, watch mode with snapshot diffing, the evaluation règlement implemented from the official text, CSV export, an HTTP API, plus Android and KDE clients. |
+| [ict-defect-dashboard](https://github.com/nonee01/ict-defect-dashboard) | Dashboard for in-circuit-test defects on an SMT line. Per-component failure rate and reliability, an SPC control chart, heatmaps, and a resolution workflow with live updates. |
+| [calendar-organizer](https://github.com/nonee01/calendar-organizer) | Organises a course calendar into Google Calendar: colour assignment, validation with row numbers, statistics and splitting. |
+| [cpp-dungeon](https://github.com/nonee01/cpp-dungeon) | A terminal game in C++ that teaches eleven language features, one per room, in French. |
+| [SpaceArticle](https://github.com/nonee01/SpaceArticle) | A written piece on SPHEREx, Tiangong, Orbital Reef, Haven-1 and topological qubits, and why they are one story rather than five. |
+| [ryanair_bot](https://github.com/nonee01/ryanair_bot) | Fare watching against the Ryanair API. |
 
 ---
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b26&height=110&section=footer" width="100%" alt="footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,20:7aa2f7,55:24283b,100:1a1b26&height=110&section=footer" width="100%" alt="footer">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yassine-el-aidous/"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=TheSilent01&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=nonee01&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="profile views">
 </p>
